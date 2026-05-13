@@ -19,23 +19,6 @@
 | 3 | `K*result < 25M` 判定回退 OpenCV | SmileyOnWork 类长条 FFT |
 | 4 | 极小 result 早返回限定 `K<2000` | InfrastTraining 类高 K 小 result |
 
-## 流程
-
-1. **基线测量** — `commit 5e78b23157` 之前的纯 OpenCV `cv::matchTemplate(..., mask)` 实现，分别在 Windows / Android 跑全量
-2. **退化诊断** — 把 FFT/sparse 上线后的 latest 与 baseline 对比，按代码路径分类回归 case（cat 1-4）
-3. **反复调参** — 对每个 case 用 Python 算出 `(K, result, K*result, n_dy)`，按这些维度做 bucket 分析，统计退化/中性/加速分布
-4. **逐步优化 + 定向验证** — bench_matcher 支持指定 case 过滤，每一步只跑对应的回归子集（含正向 sanity case），避免噪声淹没改动
-5. **全量回归** — Windows 串行跑 2 次取 min（噪声 10-15%）；Android K20 Pro 单次（噪声 <1%）
-6. **正确性兜底** — `verify()` 用 `match_threshold=0.75` + `val_tol=2e-3`，跨 1 万次迭代正确性全过
-
-## 测试集
-
-| 集合 | 样本数 | 构造规则 |
-|---|---:|---|
-| coverage | 803 | 全部 `>=200ms` + 全部稀有 method (HSVCount/RGBCount) + 全部 multi-template + timing×scene 分层抽样 |
-| perf | 1402 | 按生产 timing 分布加权采样，p50/p95  |
-
-源：从 54973 个生产捕获 case 中抽样（`scripts/select_cases.py`）。
 
 ## 图表
 
@@ -77,6 +60,25 @@ Windows = min-of-2 runs，Android = single run。
 | | | p95 | 5,071us | 3,027us | 1.68x |
 | | | p99 | 119,905us | 50,578us | 2.37x |
 | | | mean | 6,389us | 2,335us | **2.74x** |
+
+
+## 流程
+
+1. **基线测量** — `commit 5e78b23157` 之前的纯 OpenCV `cv::matchTemplate(..., mask)` 实现，分别在 Windows / Android 跑全量
+2. **退化诊断** — 把 FFT/sparse 上线后的 latest 与 baseline 对比，按代码路径分类回归 case（cat 1-4）
+3. **反复调参** — 对每个 case 用 Python 算出 `(K, result, K*result, n_dy)`，按这些维度做 bucket 分析，统计退化/中性/加速分布
+4. **逐步优化 + 定向验证** — bench_matcher 支持指定 case 过滤，每一步只跑对应的回归子集（含正向 sanity case），避免噪声淹没改动
+5. **全量回归** — Windows 串行跑 2 次取 min（噪声 10-15%）；Android K20 Pro 单次（噪声 <1%）
+6. **正确性兜底** — `verify()` 用 `match_threshold=0.75` + `val_tol=2e-3`，跨 1 万次迭代正确性全过
+
+## 测试集
+
+| 集合 | 样本数 | 构造规则 |
+|---|---:|---|
+| coverage | 803 | 全部 `>=200ms` + 全部稀有 method (HSVCount/RGBCount) + 全部 multi-template + timing×scene 分层抽样 |
+| perf | 1402 | 按生产 timing 分布加权采样，p50/p95  |
+
+源：从 54973 个生产捕获 case 中抽样（`scripts/select_cases.py`）
 
 ## 残留与噪声
 
