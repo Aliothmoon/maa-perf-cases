@@ -67,7 +67,7 @@ Windows = min-of-2 runs，Android = single run。
 1. **基线测量** — `commit 5e78b23157` 之前的纯 OpenCV `cv::matchTemplate(..., mask)` 实现，分别在 Windows / Android 跑全量
 2. **退化诊断** — 把 FFT/sparse 上线后的 latest 与 baseline 对比，按代码路径分类回归 case（cat 1-4）
 3. **反复调参** — 对每个 case 用 Python 算出 `(K, result, K*result, n_dy)`，按这些维度做 bucket 分析，统计退化/中性/加速分布
-4. **逐步优化 + 定向验证** — bench_matcher 支持指定 case 过滤，每一步只跑对应的回归子集（含正向 sanity case），避免噪声淹没改动
+4. **逐步优化** — bench_matcher 支持指定 case 过滤，每一步只跑对应的回归子集（含正向 sanity case），避免噪声淹没改动
 5. **全量回归** — Windows 串行跑 2 次取 min（噪声 10-15%）；Android K20 Pro 单次（噪声 <1%）
 6. **正确性兜底** — `verify()` 用 `match_threshold=0.75` + `val_tol=2e-3`，跨 1 万次迭代正确性全过
 
