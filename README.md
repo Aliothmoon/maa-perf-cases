@@ -85,7 +85,7 @@ bench_matcher <dump_dir> [iterations=200] [case_ids]
   case_ids:  逗号分隔的样本 ID（如 "155,22,170"），"*" 或省略 = 全量
 ```
 
-只跑指定 case 验证优化（迭代调优时强烈推荐）：
+只跑指定 case 验证
 
 ```bash
 bench_matcher RegressionCases/perf 50 "280,281,279,54911,54912"
