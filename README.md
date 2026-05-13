@@ -5,7 +5,6 @@
 用于：
 - 对 `Matcher` / `MaskedCcoeffMatcher` 改动做覆盖回归 + 性能 A/B
 - 跨平台（Windows MSVC / Android NDK）对比
-- 给后续优化（FFT/sparse 调度、NEON 手写等）提供稳定可重现的样本
 
 ## 目录
 
