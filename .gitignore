@@ -15,13 +15,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Local bench results (only baselines are tracked)
-result_*.txt
-**/result_*windows_latest*.txt
-**/result_*windows_p012*.txt
-**/result_*android_p012*.txt
-**/result_*_p5*.txt
-**/result_*_run2*.txt
+# Ad-hoc local results (only tracked runs under data/ are kept)
+/result_*.txt
 
 # Editor
 .vscode/

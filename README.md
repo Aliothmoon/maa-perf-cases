@@ -6,6 +6,9 @@
 - 对 `Matcher` / `MaskedCcoeffMatcher` 改动做覆盖回归 + 性能 A/B
 - 跨平台（Windows MSVC / Android NDK）对比
 
+> **优化结果** — [`docs/perf-report.md`](docs/perf-report.md)
+> Windows perf p50 **8.6x**，Android perf p50 **16.0x**，Android 两个集合 **零回归**。
+
 ## 目录
 
 ```
