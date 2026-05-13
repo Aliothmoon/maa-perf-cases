@@ -14,11 +14,10 @@
 
 | 编号 | 改动 | 解决的退化类型 |
 |---|---|---|
-| P0 | `sync_cache_revision` 双检 atomic 快路径 | 小 case 固定 mutex 开销（cat 3）|
-| P1 | 中等 result + 中等 K 判定回退 OpenCV | GameStart 类稀疏甜区（cat 1）|
-| P2 | `K*result < 25M` 判定回退 OpenCV | SmileyOnWork 类长条 FFT（cat 2）|
-| P3 | 极小 result 早返回限定 `K<2000` | InfrastTraining 类高 K 小 result（cat 4）|
-| P4 | `MaskedCcoeffMatcher` 单例懒初始化 | no-mask 路径字节级回归 baseline |
+| 1 | 缓存检查时尽量无锁处理 | 小 case 固定 mutex 开销（cat 3）|
+| 2 | 中等 result + 中等 K 判定回退 OpenCV | GameStart 类稀疏适用区 |
+| 3 | `K*result < 25M` 判定回退 OpenCV | SmileyOnWork 类长条 FFT |
+| 4 | 极小 result 早返回限定 `K<2000` | InfrastTraining 类高 K 小 result |
 
 ## 流程
 
@@ -34,7 +33,7 @@
 | 集合 | 样本数 | 构造规则 |
 |---|---:|---|
 | coverage | 803 | 全部 `>=200ms` + 全部稀有 method (HSVCount/RGBCount) + 全部 multi-template + timing×scene 分层抽样 |
-| perf | 1402 | 按生产 timing 分布加权采样，p50/p95 接近真实生产 |
+| perf | 1402 | 按生产 timing 分布加权采样，p50/p95  |
 
 源：从 54973 个生产捕获 case 中抽样（`scripts/select_cases.py`）。
 
