@@ -1,0 +1,13 @@
+diff --git a/CMakeLists.txt b/CMakeLists.txt
+index 37f7c9ab95..69c4dd77b8 100644
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -71,3 +71,8 @@ endif()
+ if(BUILD_RESOURCE_UPDATER)
+     add_subdirectory(tools/ResourceUpdater)
+ endif()
++
++option(BUILD_BENCHMARK "build matcher benchmark" ON)
++if(BUILD_BENCHMARK)
++    add_subdirectory(src/Benchmark)
++endif()

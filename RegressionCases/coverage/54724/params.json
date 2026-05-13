@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[{"lower":253,"type":"gray","upper":255}],"expected":[{"max_loc":[74,463],"max_val":0.486111,"templ":"StartToVisit.png"}],"image_size":[267,601],"key":"StartToVisit.png|9846128677054219817","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["RGBCount"],"pure_color":true,"templ_names":["StartToVisit.png"],"templ_thres":[0.800000]}

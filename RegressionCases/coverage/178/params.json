@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[9,3],"max_val":0.081078,"templ":"NotDownloadVoice.png"}],"image_size":[152,62],"key":"NotDownloadVoice.png|9275376516369649393","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["NotDownloadVoice.png"],"templ_thres":[0.800000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[142,107],"max_val":0.386865,"templ":"InfrastMfgOriginStoneFlag.png"}],"image_size":[280,720],"key":"InfrastMfgOriginStoneFlag.png|8630437067458739423","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["InfrastMfgOriginStoneFlag.png"],"templ_thres":[0.800000]}

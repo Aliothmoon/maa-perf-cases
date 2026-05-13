@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[15,91],"max_val":0.230198,"templ":"Dark/Mall.png"}],"image_size":[186,171],"key":"Dark/Mall.png|4650992460189260934","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Dark/Mall.png"],"templ_thres":[0.800000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[75,72],"max_val":0.991744,"templ":"InfrastNotification.png"}],"image_size":[180,300],"key":"InfrastNotification.png|17462614842752709738","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["InfrastNotification.png"],"templ_thres":[0.800000]}

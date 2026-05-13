@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[49,117],"max_val":0.220773,"templ":"OperLockedMfg.png"}],"image_size":[430,220],"key":"OperLockedMfg.png|2485209567870027394","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["OperLockedMfg.png"],"templ_thres":[0.800000]}

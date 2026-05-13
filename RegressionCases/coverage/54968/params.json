@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[38,38],"max_val":0.973535,"templ":"ReceiveAward.png"}],"image_size":[330,150],"key":"ReceiveAward.png|10471596932700542930","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["ReceiveAward.png"],"templ_thres":[0.800000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[50,56],"max_val":0.454143,"templ":"CloseAnno.png"}],"image_size":[180,200],"key":"CloseAnno.png|16087958622717544188","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CloseAnno.png"],"templ_thres":[0.800000]}

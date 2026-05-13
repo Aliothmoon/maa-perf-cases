@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[77,59],"max_val":0.278056,"templ":"RecruitNoPermit.png"}],"image_size":[190,110],"key":"RecruitNoPermit.png|5781979023396226242","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["RecruitNoPermit.png"],"templ_thres":[0.800000]}

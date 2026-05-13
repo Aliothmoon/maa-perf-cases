@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[100,8],"max_val":0.316812,"templ":"UsePrts-Annihilation.png"}],"image_size":[183,123],"key":"UsePrts-Annihilation.png|8850955106368966085","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["UsePrts-Annihilation.png"],"templ_thres":[0.800000]}

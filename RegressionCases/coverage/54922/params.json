@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[44,45],"max_val":0.647165,"templ":"SoldOut.png"}],"image_size":[220,220],"key":"SoldOut.png|15398063028623620428","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["SoldOut.png"],"templ_thres":[0.800000]}

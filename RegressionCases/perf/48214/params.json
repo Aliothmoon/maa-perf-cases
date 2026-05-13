@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[47,35],"max_val":0.425399,"templ":"CloseCluePage.png"}],"image_size":[120,120],"key":"CloseCluePage.png|442241655531932239","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CloseCluePage.png"],"templ_thres":[0.800000]}

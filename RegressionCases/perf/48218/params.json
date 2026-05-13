@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[2,8],"max_val":0.318257,"templ":"ClueNew.png"}],"image_size":[130,80],"key":"ClueNew.png|7640137765199556101","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["ClueNew.png"],"templ_thres":[0.800000]}

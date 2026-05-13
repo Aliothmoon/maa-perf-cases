@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[104,12],"max_val":0.478118,"templ":"WeeklyTask.png"}],"image_size":[880,100],"key":"WeeklyTask.png|13292290878285038432","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["WeeklyTask.png"],"templ_thres":[0.800000]}

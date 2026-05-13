@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[{"lower":200,"type":"gray","upper":255}],"expected":[{"max_loc":[28,0],"max_val":0.062840,"templ":"SelectClue.png"}],"image_size":[177,147],"key":"SelectClue.png|4319371809052968301","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["RGBCount"],"pure_color":false,"templ_names":["SelectClue.png"],"templ_thres":[0.800000]}

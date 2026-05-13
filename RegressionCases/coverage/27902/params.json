@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[81,50],"max_val":0.974415,"templ":"AddOperatorMfgAggressive.png"}],"image_size":[500,100],"key":"AddOperatorMfgAggressive.png|6027166083579996073","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["AddOperatorMfgAggressive.png"],"templ_thres":[0.800000]}

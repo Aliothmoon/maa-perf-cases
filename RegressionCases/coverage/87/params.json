@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[21,71],"max_val":0.256587,"templ":"CloseAnnoSpecialAccess.png"}],"image_size":[143,143],"key":"CloseAnnoSpecialAccess.png|2946502648755326449","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CloseAnnoSpecialAccess.png"],"templ_thres":[0.800000]}

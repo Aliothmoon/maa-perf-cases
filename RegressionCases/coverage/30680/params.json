@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[50,50],"max_val":0.941010,"templ":"DroneConfirm.png"}],"image_size":[377,165],"key":"DroneConfirm.png|6999788308994632409","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["DroneConfirm.png"],"templ_thres":[0.800000]}

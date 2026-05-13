@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[196,49],"max_val":0.229390,"templ":"ClueVacancy2.png"}],"image_size":[500,195],"key":"ClueVacancy2.png|16605857320118101307","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["ClueVacancy2.png"],"templ_thres":[0.750000]}

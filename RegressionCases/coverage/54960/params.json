@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[63,0],"max_val":0.492921,"templ":"Sarkaz/Task.png"}],"image_size":[230,190],"key":"Sarkaz/Task.png|4004455293799581871","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Sarkaz/Task.png"],"templ_thres":[0.800000]}

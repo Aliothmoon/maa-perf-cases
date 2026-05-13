@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[33,4],"max_val":0.257595,"templ":"CRISIS_SHOP_COIN"}],"image_size":[138,130],"key":"CRISIS_SHOP_COIN|11248039908981113745","mask_close":true,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CRISIS_SHOP_COIN"],"templ_thres":[0.650000]}

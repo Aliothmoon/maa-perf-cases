@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[119,187],"max_val":0.300316,"templ":"ControlCenter.png"}],"image_size":[880,300],"key":"ControlCenter.png|6325194688953100088","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["ControlCenter.png"],"templ_thres":[0.950000]}

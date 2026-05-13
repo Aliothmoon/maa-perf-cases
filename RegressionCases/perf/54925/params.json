@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[30,56],"max_val":0.997363,"templ":"BuyIt.png"}],"image_size":[250,150],"key":"BuyIt.png|3221350446065953265","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["BuyIt.png"],"templ_thres":[0.800000]}

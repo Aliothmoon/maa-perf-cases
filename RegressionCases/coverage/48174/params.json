@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[35,19],"max_val":0.959168,"templ":"ReceptionFlag.png"}],"image_size":[200,100],"key":"ReceptionFlag.png|9031407479304311910","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["ReceptionFlag.png"],"templ_thres":[0.800000]}

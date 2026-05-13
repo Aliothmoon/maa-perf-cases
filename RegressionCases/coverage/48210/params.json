@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[3,3],"max_val":0.999404,"templ":"CloseSendClue.png"}],"image_size":[41,41],"key":"CloseSendClue.png|5275002482158923803","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CloseSendClue.png"],"templ_thres":[0.800000]}

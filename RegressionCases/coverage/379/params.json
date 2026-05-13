@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[93,240],"max_val":0.451134,"templ":"InfrastMfgPureGoldFlag.png"}],"image_size":[280,720],"key":"InfrastMfgPureGoldFlag.png|11163529075066063138","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["InfrastMfgPureGoldFlag.png"],"templ_thres":[0.800000]}

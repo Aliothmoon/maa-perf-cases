@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[-1,-1],"max_val":0.000000,"templ":"GameStart.png"}],"image_size":[200,120],"key":"GameStart.png|2649416088302577591","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["GameStart.png"],"templ_thres":[0.700000]}

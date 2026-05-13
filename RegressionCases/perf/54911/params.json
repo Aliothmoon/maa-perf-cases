@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[51,56],"max_val":0.254720,"templ":"Gaming/Mall.png"}],"image_size":[186,171],"key":"Gaming/Mall.png|4650992460189260934","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Gaming/Mall.png"],"templ_thres":[0.800000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[36,35],"max_val":0.195630,"templ":"StartToWakeUp.png"}],"image_size":[240,100],"key":"StartToWakeUp.png|8919881313227198883","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["StartToWakeUp.png"],"templ_thres":[0.800000]}

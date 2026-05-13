@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[26,50],"max_val":0.059155,"templ":"StartLoginBServer.png"}],"image_size":[500,150],"key":"StartLoginBServer.png|4728629750341378011","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["StartLoginBServer.png"],"templ_thres":[0.800000]}

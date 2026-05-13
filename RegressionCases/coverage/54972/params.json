@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[304,15],"max_val":0.913864,"templ":"AwardFinished.png"}],"image_size":[880,100],"key":"AwardFinished.png|13292290878285038432","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["AwardFinished.png"],"templ_thres":[0.800000]}

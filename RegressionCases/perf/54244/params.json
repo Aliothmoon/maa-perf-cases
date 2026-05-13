@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[108,2],"max_val":0.208337,"templ":"StageDrops-DropType-Sanity.png"}],"image_size":[275,25],"key":"StageDrops-DropType-Sanity.png|11360944443793930159","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["StageDrops-DropType-Sanity.png"],"templ_thres":[0.800000]}

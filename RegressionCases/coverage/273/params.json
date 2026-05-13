@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[34,3],"max_val":0.174385,"templ":"Siege/Recruit.png"}],"image_size":[200,150],"key":"Siege/Recruit.png|7247870580900782213","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Siege/Recruit.png"],"templ_thres":[0.800000]}

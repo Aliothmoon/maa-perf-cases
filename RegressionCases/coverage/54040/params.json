@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[413,364],"max_val":0.624953,"templ":"DormMini.png"}],"image_size":[690,434],"key":"DormMini.png|12433295519989406641","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["DormMini.png"],"templ_thres":[0.900000]}

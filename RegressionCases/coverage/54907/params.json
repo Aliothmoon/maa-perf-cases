@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[3,72],"max_val":0.345501,"templ":"MistCity/Mall.png"}],"image_size":[186,171],"key":"MistCity/Mall.png|4650992460189260934","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["MistCity/Mall.png"],"templ_thres":[0.800000]}

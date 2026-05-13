@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[0,0],"max_val":0.000000,"templ":"StartUpConnectingFlag.png"}],"image_size":[450,85],"key":"StartUpConnectingFlag.png|9102597485355773919","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["StartUpConnectingFlag.png"],"templ_thres":[0.800000]}

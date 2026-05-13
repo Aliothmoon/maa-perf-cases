@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[33,15],"max_val":0.933411,"templ":"GetClue1.png"}],"image_size":[250,80],"key":"GetClue1.png|8594341414183494599","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["GetClue1.png"],"templ_thres":[0.800000]}

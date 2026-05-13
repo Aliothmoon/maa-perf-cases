@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[50,59],"max_val":0.999996,"templ":"InfrastClueQuickInsert.png"}],"image_size":[148,148],"key":"InfrastClueQuickInsert.png|2209040373289839694","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["InfrastClueQuickInsert.png"],"templ_thres":[0.800000]}

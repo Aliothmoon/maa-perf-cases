@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[26,2],"max_val":0.223037,"templ":"StageDrops-DropType-Extra.png"}],"image_size":[138,25],"key":"StageDrops-DropType-Extra.png|15634594899648587930","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["StageDrops-DropType-Extra.png"],"templ_thres":[0.800000]}

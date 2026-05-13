@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[26,10],"max_val":0.450294,"templ":"FightSeries-List-Exceeded.png"}],"image_size":[55,40],"key":"FightSeries-List-Exceeded.png|10329840616832491326","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["FightSeries-List-Exceeded.png"],"templ_thres":[0.800000]}

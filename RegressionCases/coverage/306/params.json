@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[2,76],"max_val":0.063548,"templ":"RecruitSkip.png"}],"image_size":[180,150],"key":"RecruitSkip.png|16941429961243085459","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["RecruitSkip.png"],"templ_thres":[0.800000]}

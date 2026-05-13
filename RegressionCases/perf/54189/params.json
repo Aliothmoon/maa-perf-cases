@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[2,4],"max_val":0.999976,"templ":"EndOfAction.png"}],"image_size":[70,60],"key":"EndOfAction.png|904714919000208408","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["EndOfAction.png"],"templ_thres":[0.800000]}

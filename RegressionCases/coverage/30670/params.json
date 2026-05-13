@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[119,201],"max_val":0.988416,"templ":"TradeMini.png"}],"image_size":[640,400],"key":"TradeMini.png|3889596501053050420","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["TradeMini.png"],"templ_thres":[0.900000]}

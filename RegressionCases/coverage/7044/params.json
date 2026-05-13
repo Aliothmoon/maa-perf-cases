@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[437,26],"max_val":0.681575,"templ":"SmileyOnWork.png"}],"image_size":[880,80],"key":"SmileyOnWork.png|416159735621102441","mask_close":false,"mask_ranges":[{"lower":100,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["SmileyOnWork.png"],"templ_thres":[0.800000]}

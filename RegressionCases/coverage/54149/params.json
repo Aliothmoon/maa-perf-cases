@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[321,183],"max_val":0.998986,"templ":"01@EnterEpisodeNew.png"}],"image_size":[1280,720],"key":"01@EnterEpisodeNew.png|6108896083780256327","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["01@EnterEpisodeNew.png"],"templ_thres":[0.800000]}

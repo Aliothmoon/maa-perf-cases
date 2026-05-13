@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[10,36],"max_val":0.232235,"templ":"Sami/Recruit.png"}],"image_size":[200,150],"key":"Sami/Recruit.png|7247870580900782213","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Sami/Recruit.png"],"templ_thres":[0.800000]}

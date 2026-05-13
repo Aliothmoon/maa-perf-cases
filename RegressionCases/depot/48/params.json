@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[55,20],"max_val":0.959233,"templ":"DepotMaterialTabClicked.png"}],"image_size":[254,138],"key":"DepotMaterialTabClicked.png|10681118273540514444","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["DepotMaterialTabClicked.png"],"templ_thres":[0.800000]}

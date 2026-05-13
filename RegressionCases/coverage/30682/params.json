@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[720,464],"max_val":0.973750,"templ":"DroneAssistTrade.png"}],"image_size":[1280,720],"key":"DroneAssistTrade.png|2597384558278633634","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["DroneAssistTrade.png"],"templ_thres":[0.800000]}

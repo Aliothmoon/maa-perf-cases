@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[64,63],"max_val":0.998146,"templ":"InfrastClearButton.png"}],"image_size":[275,128],"key":"InfrastClearButton.png|5986774430202096511","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["InfrastClearButton.png"],"templ_thres":[0.800000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[111,58],"max_val":0.492689,"templ":"Trade.png"}],"image_size":[820,520],"key":"Trade.png|16370101214103668972","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Trade.png"],"templ_thres":[0.900000]}

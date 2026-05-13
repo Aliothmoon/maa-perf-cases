@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[0,82],"max_val":0.178667,"templ":"DeliverableOrder.png"}],"image_size":[230,250],"key":"DeliverableOrder.png|12717973041096704734","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["DeliverableOrder.png"],"templ_thres":[0.800000]}

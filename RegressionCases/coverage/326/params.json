@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[100,100],"max_val":0.144049,"templ":"OfflineConfirm.png"}],"image_size":[648,165],"key":"OfflineConfirm.png|3323058750650016625","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["OfflineConfirm.png"],"templ_thres":[0.800000]}

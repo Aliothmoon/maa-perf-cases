@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[12,15],"max_val":0.209643,"templ":"CRISIS_RUNE_COIN"}],"image_size":[138,130],"key":"CRISIS_RUNE_COIN|11248039908981113745","mask_close":true,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CRISIS_RUNE_COIN"],"templ_thres":[0.650000]}

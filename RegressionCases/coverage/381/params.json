@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[18,111],"max_val":0.387328,"templ":"InfrastMfgChipFlag.png"}],"image_size":[280,720],"key":"InfrastMfgChipFlag.png|11163529075066063138","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["InfrastMfgChipFlag.png"],"templ_thres":[0.800000]}

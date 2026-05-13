@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[49,36],"max_val":0.388992,"templ":"Sarkaz/Friends.png"}],"image_size":[200,200],"key":"Sarkaz/Friends.png|10388860408363770901","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Sarkaz/Friends.png"],"templ_thres":[0.700000]}

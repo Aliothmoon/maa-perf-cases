@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[28,23],"max_val":0.998361,"templ":"RecruitTimerDecrement.png"}],"image_size":[370,100],"key":"RecruitTimerDecrement.png|4063433764962654547","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["RecruitTimerDecrement.png"],"templ_thres":[0.800000]}

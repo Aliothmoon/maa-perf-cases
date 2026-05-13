@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[24,14],"max_val":0.931582,"templ":"DroneMax.png"}],"image_size":[120,80],"key":"DroneMax.png|6303403427350884291","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["DroneMax.png"],"templ_thres":[0.800000]}

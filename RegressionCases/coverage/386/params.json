@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[462,25],"max_val":0.962252,"templ":"SmileyOnRest.png"}],"image_size":[880,80],"key":"SmileyOnRest.png|6943201961599925132","mask_close":false,"mask_ranges":[{"lower":100,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["SmileyOnRest.png"],"templ_thres":[0.800000]}

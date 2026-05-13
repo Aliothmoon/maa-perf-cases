@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[0,15],"max_val":0.045345,"templ":"LoadingIcon.png"}],"image_size":[320,280],"key":"LoadingIcon.png|16616850054112579070","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["LoadingIcon.png"],"templ_thres":[0.800000]}

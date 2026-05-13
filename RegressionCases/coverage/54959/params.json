@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[103,70],"max_val":0.210047,"templ":"Siege/Task.png"}],"image_size":[230,190],"key":"Siege/Task.png|4004455293799581871","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Siege/Task.png"],"templ_thres":[0.800000]}

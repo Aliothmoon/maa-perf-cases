@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[430,389],"max_val":0.522854,"templ":"Reception.png"}],"image_size":[900,529],"key":"Reception.png|12306581493758389011","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Reception.png"],"templ_thres":[0.950000]}

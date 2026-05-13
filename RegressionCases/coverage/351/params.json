@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[209,28],"max_val":0.664299,"templ":"InfrastOverview.png"}],"image_size":[300,150],"key":"InfrastOverview.png|111689736338949003","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["InfrastOverview.png"],"templ_thres":[0.950000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[10,0],"max_val":0.332059,"templ":"StageDrops-Stars-Adverse.png"}],"image_size":[90,95],"key":"StageDrops-Stars-Adverse.png|5836889278265926891","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["StageDrops-Stars-Adverse.png"],"templ_thres":[0.800000]}

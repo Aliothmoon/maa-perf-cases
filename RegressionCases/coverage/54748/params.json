@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[21,34],"max_val":0.983941,"templ":"FriendsList.png"}],"image_size":[250,150],"key":"FriendsList.png|14727415777152256150","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["FriendsList.png"],"templ_thres":[0.800000]}

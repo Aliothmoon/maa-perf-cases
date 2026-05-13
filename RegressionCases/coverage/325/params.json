@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[28,16],"max_val":0.981027,"templ":"RecruitConfirm.png"}],"image_size":[230,80],"key":"RecruitConfirm.png|14339042256909107442","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["RecruitConfirm.png"],"templ_thres":[0.800000]}

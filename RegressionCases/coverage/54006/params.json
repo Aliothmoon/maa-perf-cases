@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[246,40],"max_val":0.997791,"templ":"Dorm.png"}],"image_size":[880,500],"key":"Dorm.png|10664281014584094882","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Dorm.png"],"templ_thres":[0.900000]}

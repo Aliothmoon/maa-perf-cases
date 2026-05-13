@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[16,12],"max_val":0.275740,"templ":"OnShift.png"}],"image_size":[70,50],"key":"OnShift.png|7617270933617838785","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["OnShift.png"],"templ_thres":[0.800000]}

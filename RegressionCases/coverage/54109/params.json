@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[13,77],"max_val":0.515619,"templ":"TrainingMini.png"}],"image_size":[653,404],"key":"TrainingMini.png|10929951631693881343","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["TrainingMini.png"],"templ_thres":[0.950000]}

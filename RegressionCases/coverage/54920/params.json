@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[112,48],"max_val":0.421063,"templ":"CrisisPopup.png"}],"image_size":[400,100],"key":"CrisisPopup.png|16429045839829553276","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CrisisPopup.png"],"templ_thres":[0.800000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[73,57],"max_val":0.094673,"templ":"AnnihilationReturnFlag.png"}],"image_size":[400,250],"key":"AnnihilationReturnFlag.png|11645591212847342130","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["AnnihilationReturnFlag.png"],"templ_thres":[0.800000]}

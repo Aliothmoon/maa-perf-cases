@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[13,34],"max_val":0.193913,"templ":"Dark/Recruit.png"}],"image_size":[200,150],"key":"Dark/Recruit.png|7247870580900782213","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Dark/Recruit.png"],"templ_thres":[0.800000]}

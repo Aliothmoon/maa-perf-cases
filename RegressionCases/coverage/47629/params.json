@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[583,231],"max_val":0.572908,"templ":"Power.png"}],"image_size":[820,520],"key":"Power.png|3565255086212817636","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Power.png"],"templ_thres":[0.900000]}

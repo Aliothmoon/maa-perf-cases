@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[16,0],"max_val":0.035514,"templ":"DormConfirm.png"}],"image_size":[650,100],"key":"DormConfirm.png|7129348673543637897","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["DormConfirm.png"],"templ_thres":[0.800000]}

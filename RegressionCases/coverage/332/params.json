@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[10,57],"max_val":0.962963,"templ":"PopupConfirm.png"}],"image_size":[650,160],"key":"PopupConfirm.png|17586324850718761566","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["PopupConfirm.png"],"templ_thres":[0.800000]}

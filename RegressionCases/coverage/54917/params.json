@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[56,12],"max_val":0.942510,"templ":"CollectCredit.png"}],"image_size":[250,100],"key":"CollectCredit.png|15229652352609082687","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["CollectCredit.png"],"templ_thres":[0.800000]}

@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[189,0],"max_val":0.282604,"templ":"OperLockedTrade.png"}],"image_size":[430,220],"key":"OperLockedTrade.png|8482222463086840428","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["OperLockedTrade.png"],"templ_thres":[0.800000]}

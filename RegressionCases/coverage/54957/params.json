@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[3,29],"max_val":0.196982,"templ":"Sami/Task.png"}],"image_size":[230,190],"key":"Sami/Task.png|4004455293799581871","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Sami/Task.png"],"templ_thres":[0.800000]}

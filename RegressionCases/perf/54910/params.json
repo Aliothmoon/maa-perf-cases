@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[69,43],"max_val":0.248507,"templ":"Delicious/Mall.png"}],"image_size":[186,171],"key":"Delicious/Mall.png|4650992460189260934","mask_close":false,"mask_ranges":[{"lower":1,"type":"gray","upper":255}],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["Delicious/Mall.png"],"templ_thres":[0.800000]}

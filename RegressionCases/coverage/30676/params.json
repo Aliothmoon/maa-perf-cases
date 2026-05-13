@@ -1,0 +1,1 @@
+{"color_close":true,"color_scales":[],"expected":[{"max_loc":[31,45],"max_val":0.911701,"templ":"ShamareThumbnail2.png"}],"image_size":[380,170],"key":"ShamareThumbnail2.png|10672221587493247408","mask_close":false,"mask_ranges":[],"mask_src":false,"methods":["Ccoeff"],"pure_color":false,"templ_names":["ShamareThumbnail2.png"],"templ_thres":[0.900000]}
