@@ -126,7 +126,7 @@ adb pull /data/local/tmp/result_perf.txt .
   - 所有 `HSVCount` / `RGBCount` 稀有方法
   - 所有 multi-template
   - 各 timing bucket × scene 分层抽样
-- `perf`：镜像生产分布 (按 timing bucket 加权)，用于稳定的 p50/p95 对比
+- `perf`：从实际运行的dump数据里取的，用于稳定的 p50/p95 对比
 
 ## Baseline 与重跑
 
