@@ -4,8 +4,8 @@ plot_perf.py — render PR-ready performance charts from bench_matcher output.
 
 Inputs (relative to repo root):
   RegressionCases/baseline/{windows,android}/{coverage,perf}.txt
-  data/post-p04/windows/{coverage,perf}_run{1,2}.txt   (min-of-2 used)
-  data/post-p04/android/{coverage,perf}.txt            (single run, Android is stable)
+  data/windows/{coverage,perf}_run{1,2}.txt   (min-of-2 used)
+  data/android/{coverage,perf}.txt            (single run, Android is stable)
 
 Outputs:
   docs/figures/percentiles.png
@@ -63,12 +63,12 @@ def load_all():
             base[(plat, ds)] = parse(REPO / "RegressionCases" / "baseline" / plat / f"{ds}.txt")
         if plat == "windows":
             for ds in ("coverage", "perf"):
-                r1 = parse(REPO / "data" / "post-p04" / "windows" / f"{ds}_run1.txt")
-                r2 = parse(REPO / "data" / "post-p04" / "windows" / f"{ds}_run2.txt")
+                r1 = parse(REPO / "data"  / "windows" / f"{ds}_run1.txt")
+                r2 = parse(REPO / "data"  / "windows" / f"{ds}_run2.txt")
                 post[(plat, ds)] = merge_min(r1, r2) if r2 else r1
         else:
             for ds in ("coverage", "perf"):
-                post[(plat, ds)] = parse(REPO / "data" / "post-p04" / "android" / f"{ds}.txt")
+                post[(plat, ds)] = parse(REPO / "data"  / "android" / f"{ds}.txt")
     return base, post
 
 
